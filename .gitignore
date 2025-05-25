@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore other unnecessary files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+*.pkl
